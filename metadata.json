@@ -1,0 +1,6 @@
+{
+  "name": "KAF Chicken POS",
+  "description": "Sistem Kasir & Point of Sale Modern untuk Restoran KAF Chicken",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
