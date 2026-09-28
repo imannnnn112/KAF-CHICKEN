@@ -13,7 +13,7 @@ import { ReportsView } from './components/reports/ReportsView';
 import { SettingsView } from './components/settings/SettingsView';
 import { ReceiptModal } from './components/pos/ReceiptModal';
 
-const MainLayout: React.FC = () => {
+const MainLayout = () => {
   const { currentUser, activeTab, sidebarOpen, activeReceipt, setActiveReceipt } = usePOS();
 
   // If user is logged out, display Login Screen
